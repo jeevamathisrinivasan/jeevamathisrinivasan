@@ -33,8 +33,18 @@
 ### 🌐 Connect With Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jeevamathi-s" target="_blank">
+  <a href="https://www.linkedin.com/in/jeevamathi-srinivasan-456913290/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30"/>
+  </a>
+</p>
+
+---
+
+### 🧩 Coding Profiles  
+
+<p align="left">
+  <a href="https://leetcode.com/u/Jeevamathi_S/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30"/>
   </a>
 </p>
 
